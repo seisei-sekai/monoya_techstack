@@ -4,6 +4,16 @@ A full-stack AI-powered journal application with semantic search and personalize
 
 ---
 
+## Disclaimer
+
+This is a toy RAG full-stack project built as a technical demonstration based on Monoya job descriptions for the following roles:
+- Full Stack Engineer: https://www.tokyodev.com/companies/monoya/jobs/full-stack-engineer
+- AI/Machine Learning Engineer: https://www.tokyodev.com/companies/monoya/jobs/ai-machine-learning-engineer
+
+This project does not reflect any actual product, service, or business operations. It is purely an educational and demonstrative implementation.
+
+---
+
 ## Overview
 
 AI Diary is a modern web application that combines personal journaling with artificial intelligence. The system uses Retrieval-Augmented Generation (RAG) technology to provide contextual insights based on your journal history.

@@ -4,6 +4,16 @@
 
 ---
 
+## 免責事項
+
+本プロジェクトは、以下の Monoya 求人職種の技術的デモンストレーションとして構築された、トイ RAG フルスタックプロジェクトです:
+- フルスタックエンジニア: https://www.tokyodev.com/companies/monoya/jobs/full-stack-engineer
+- AI/機械学習エンジニア: https://www.tokyodev.com/companies/monoya/jobs/ai-machine-learning-engineer
+
+本プロジェクトは、実際の製品、サービス、またはビジネス運営を反映するものではありません。純粋に教育的かつ実証的な実装です。
+
+---
+
 ## 概要
 
 AI 日記は、個人的な日記作成と人工知能を組み合わせた最新のウェブアプリケーションです。本システムは、Retrieval-Augmented Generation (RAG) 技術を使用して、日記の履歴に基づいた文脈的な洞察を提供します。
