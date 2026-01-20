@@ -1,0 +1,81 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production
+*.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform.lock.hcl
+
+# Docker
+*.tar
+*.tar.gz
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+coverage/
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+service-account.json
+*-key.json
+
+# TypeScript (已转换为 JS，保留供参考)
+*.tsx
+*.ts
+tsconfig.json
+tsconfig.node.json
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# XdfClassArranger - excluded from repository
+frontend/src/XdfClassArranger/
+
