@@ -1,6 +1,8 @@
-# AI Diary
+# RAG AI Note System
 
-A full-stack AI-powered journal application with semantic search and personalized insights.
+React | FastAPI | Firebase | Weaviate | OpenAI | Terraform | GCP
+
+A full-stack Retrieval-Augmented Generation note-taking system with semantic search and AI-powered insights.
 
 ---
 

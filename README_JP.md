@@ -1,6 +1,8 @@
-# AI 日記
+# RAG AI ノートシステム
 
-セマンティック検索とパーソナライズされた洞察を備えたフルスタックAI日記アプリケーション
+React | FastAPI | Firebase | Weaviate | OpenAI | Terraform | GCP
+
+セマンティック検索とAI搭載の洞察機能を備えたフルスタック Retrieval-Augmented Generation ノートシステム
 
 ---
 
